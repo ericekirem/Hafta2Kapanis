@@ -308,7 +308,7 @@ void IsimDegistir(ref string firstName, ref string secondName)
 
 //14 - Kullanıcıdan alınan sayının tek mi çift mi olduğu bilgisini (true/false) dönen bir metot.
 
-
+/*
 // Kullanıcıdan bir sayı alınır
 Console.Write("Bir sayı giriniz: ");
 int sayi = Convert.ToInt32(Console.ReadLine());
@@ -336,7 +336,7 @@ bool TekMi(int sayi)
 
 
 
-
+*/
 
 
 /*
